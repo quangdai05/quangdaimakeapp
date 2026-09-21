@@ -7,7 +7,7 @@
   "latest_version": "0.2",
   "update_message": "App Tự Động Cập Nhật",
   "update_url": "no",
-  "force_update": false,
+  "force_update": true,
   "music_url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/music.mp3",
   "keys_url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/keys.json",
   "notifications_url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/notifications.json",
