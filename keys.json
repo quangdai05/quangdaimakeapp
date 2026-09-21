@@ -1,0 +1,12 @@
+{
+  "updated": "Nhập Key Dai Make App",
+  "note": "Vui Lòng Nhập Key",
+  "keys": [
+    {
+      "key": "DAI-VIP-A1B2C3D4",
+      "device_id": "DAI-A1B2-C3D4-E5F6",
+      "note": "hiiii",
+      "expire": "never"
+    }
+  ]
+}
