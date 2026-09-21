@@ -1,0 +1,169 @@
+{
+  "app_name": "DAI CHEAT - BETA",
+  "app_desc": "App Đang Trong Giai Đoạn Beta",
+  "app_version": "0.2",
+  "status": "active",
+  "status_message": "Ứng dụng đang hoạt động bình thường",
+  "latest_version": "0.2",
+  "update_message": "App Tự Động Cập Nhật",
+  "update_url": "no",
+  "force_update": false,
+  "music_url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/music.mp3",
+  "keys_url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/keys.json",
+  "notifications_url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/notifications.json",
+  "welcome_title": "🎀 Chào mừng đến DAI MAKE APP",
+  "welcome_msg": "Ứng dụng hỗ trợ thêm file vào Free Fire & Free Fire Max.\n\n✨ Chọn game → chọn mode → bấm cài đặt.\n💖 Chúc bạn chơi game vui vẻ!",
+  "welcome_btn": "✨ BẮT ĐẦU NGAY",
+  "game1_name": "Free Fire",
+  "game1_package": "com.dts.freefireth",
+  "game1_short": "FFTH",
+  "game2_name": "Free Fire Max",
+  "game2_package": "com.dts.freefiremax",
+  "game2_short": "FFMAX",
+  "modes": [
+    {
+      "id": "v1",
+      "name": "Aim + Esp v1",
+      "icon": "🎯",
+      "desc": "cài là dô",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v1/Assembly-CSharp-patch.bytes",
+          "name": "Assembly-CSharp-patch.bytes"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v1/localConfig.json",
+          "name": "localConfig.json"
+        }
+      ]
+    },
+    {
+      "id": "v2",
+      "name": "Aim + Esp v2",
+      "icon": "💪",
+      "desc": "cài là dô",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v2/Assembly-CSharp-patch.bytes",
+          "name": "Assembly-CSharp-patch.bytes"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v2/localConfig.json",
+          "name": "localConfig.json"
+        }
+      ]
+    },
+    {
+      "id": "v3",
+      "name": "Aim + Esp v3",
+      "icon": "👁️",
+      "desc": "cài là dô",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v3/Assembly-CSharp-patch.bytes",
+          "name": "Assembly-CSharp-patch.bytes"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v3/localConfig.json",
+          "name": "localConfig.json"
+        }
+      ]
+    },
+    {
+      "id": "v4",
+      "name": "Aim + Esp v4",
+      "icon": "⚡",
+      "desc": "cài là dô",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v4/Assembly-CSharp-patch.bytes",
+          "name": "Assembly-CSharp-patch.bytes"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v4/localConfig.json",
+          "name": "localConfig.json"
+        }
+      ]
+    },
+    {
+      "id": "v5",
+      "name": "Aim + Esp v5",
+      "icon": "🔥",
+      "desc": "cài là dô",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v5/Assembly-CSharp-patch.bytes",
+          "name": "Assembly-CSharp-patch.bytes"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v5/localConfig.json",
+          "name": "localConfig.json"
+        }
+      ]
+    },
+    {
+      "id": "v6",
+      "name": "Aim + Esp v6",
+      "icon": "🎮",
+      "desc": "cài là dô",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v6/Assembly-CSharp-patch.bytes",
+          "name": "Assembly-CSharp-patch.bytes"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v6/localConfig.json",
+          "name": "localConfig.json"
+        }
+      ]
+    },
+    {
+      "id": "v7",
+      "name": "Aim + Esp v7",
+      "icon": "🚀",
+      "desc": "cài là dô",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v7/Assembly-CSharp-patch.bytes",
+          "name": "Assembly-CSharp-patch.bytes"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v7/localConfig.json",
+          "name": "localConfig.json"
+        }
+      ]
+    },
+    {
+      "id": "v8",
+      "name": "Aim + Esp v8",
+      "icon": "💎",
+      "desc": "cài là dô",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v8/Assembly-CSharp-patch.bytes",
+          "name": "Assembly-CSharp-patch.bytes"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v8/localConfig.json",
+          "name": "localConfig.json"
+        }
+      ]
+    },
+    {
+      "id": "v9",
+      "name": "Aim + Esp v9",
+      "icon": "👑",
+      "desc": "cài là dô",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v9/Assembly-CSharp-patch.bytes",
+          "name": "Assembly-CSharp-patch.bytes"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v9/localConfig.json",
+          "name": "localConfig.json"
+        }
+      ]
+    }
+  ]
+}
