@@ -1,6 +1,6 @@
 {
   "app_name": "DAI CHEAT",
-  "app_desc": "App Hỗ Trợ Kéo Tâm",
+  "app_desc": "App Hỗ Trợ Kéo Tâm - (bản quyền thuộc bỏi quangdai X cheatandriod)",
   "app_version": "1.0",
   "status": "active",
   "status_message": "Ứng dụng đang hoạt động bình thường",
@@ -58,7 +58,7 @@
     },
     {
       "id": "v5",
-      "name": "Proxy Delta v1(bản quyền thuộc bỏi quangdai X cheatandriod)",
+      "name": "Proxy Delta v1",
       "icon": "🔥",
       "desc": "cài là dô",
       "files": [
@@ -74,13 +74,17 @@
     },
     {
       "id": "v6",
-      "name": "Aimbot + Esp (bản quyền thuộc bỏi quangdai X cheatandriod)",
+      "name": "Aimbot + Esp Vip Pro",
       "icon": "🎮",
       "desc": "ngồi lên xuống 2 lần để bật tắt aimbot + chạm 4 ngón tay vào để bật định vị",
       "files": [
         {
           "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v6/Assembly-CSharp-patch.bytes",
           "name": "Assembly-CSharp-patch.bytes"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v6/localConfig.json",
+          "name": "localConfig.json"
         }
       ]
     }
