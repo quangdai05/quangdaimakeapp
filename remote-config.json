@@ -4,7 +4,7 @@
   "app_version": "1.0",
   "status": "active",
   "status_message": "Ứng dụng đang hoạt động bình thường",
-  "maintenance": fasle,
+  "maintenance": false,
   "maintenance_title": "🔧 ĐANG BẢO TRÌ",
   "maintenance_message": "Server đang bảo trì để nâng cấp. Vui lòng quay lại sau!",
   "latest_version": "1.0",
