@@ -63,11 +63,11 @@
       "desc": "cài là dô",
       "files": [
         {
-          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v5/Assembly-CSharp-patch.bytes",
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v4/Assembly-CSharp-patch.bytes",
           "name": "Assembly-CSharp-patch.bytes"
         },
         {
-          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v5/localConfig.json",
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v4/localConfig.json",
           "name": "localConfig.json"
         }
       ]
@@ -79,11 +79,11 @@
       "desc": "ngồi lên xuống 2 lần để bật tắt aimbot + chạm 4 ngón tay vào để bật định vị",
       "files": [
         {
-          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v6/Assembly-CSharp-patch.bytes",
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v5/Assembly-CSharp-patch.bytes",
           "name": "Assembly-CSharp-patch.bytes"
         },
         {
-          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v6/localConfig.json",
+          "url": "https://raw.githubusercontent.com/quangdai05/quangdaimakeapp/main/daimakeapp/v5/localConfig.json",
           "name": "localConfig.json"
         }
       ]
