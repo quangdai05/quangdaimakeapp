@@ -4,19 +4,25 @@
       "title": "Dự Kiến Update 1.0",
       "message": "Khoản vào tháng 12 sẽ update",
       "date": "21/09/2026",
-      "icon": "👑"
+      "icon": ""
     },
     {
-      "title": "🔑 Key vĩnh viễn",
-      "message": "Từ hôm nay key được cấp vĩnh viễn, không cần gia hạn hàng ngày!",
-      "date": "21/09/2026",
-      "icon": "✨"
+      "title": "Thiết kế lại một số mode",
+      "message": "update còn 6 file",
+      "date": "23/09/2026",
+      "icon": ""
+    },
+   {
+      "title": "Update thêm mode",
+      "message": "2 cái cuối đã được update",
+      "date": "23/09/2026",
+      "icon": ""
     },
     {
       "title": "📢 Chào mừng",
       "message": "Chào mừng các bạn đến với DAI MAKE APP!",
       "date": "19/09/2026",
-      "icon": "🎀"
+      "icon": ""
     }
   ]
 }
